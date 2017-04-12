@@ -1,5 +1,8 @@
 # redundant-MPTCP-rMPTCP-
-redundant Scheduler for MPTCP, dynamically adding redundant data segments utilizing different subflows for improved latency 
+by Pascal A. Klein, Martin Verbunt, Axel Hunger,
+University Duisburg-Essen
+
+A redundant Scheduler for MPTCP, dynamically adding redundant data segments utilizing different subflows for improved latency 
 
 This Scheduler is an extension for MPTCP and has several improvements regarding the standard redundant mechanisms:
 
